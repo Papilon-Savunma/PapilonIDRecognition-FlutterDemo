@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.swiftconstvalues",
+    "dependencies" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.d",
+    "diagnostics" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.swiftdeps"
+  },
+  "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/Runner/AppDelegate.swift" : {
+    "index-unit-output-path" : "/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/Runner/File.swift" : {
+    "index-unit-output-path" : "/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/File.o",
+    "llvm-bc" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/File.bc",
+    "object" : "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/File.o"
+  }
+}

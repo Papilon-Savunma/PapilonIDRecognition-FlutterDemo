@@ -1,0 +1,16 @@
+PODS:
+  - PapilonIDRecognitioniOS-SDK (1.1.5)
+
+DEPENDENCIES:
+  - PapilonIDRecognitioniOS-SDK
+
+SPEC REPOS:
+  trunk:
+    - PapilonIDRecognitioniOS-SDK
+
+SPEC CHECKSUMS:
+  PapilonIDRecognitioniOS-SDK: 3aab16bed2ef740d87a90d318081c35cbe022723
+
+PODFILE CHECKSUM: ae09e7499a202ceb1953f22a8ddfdece4f954f95
+
+COCOAPODS: 1.14.3

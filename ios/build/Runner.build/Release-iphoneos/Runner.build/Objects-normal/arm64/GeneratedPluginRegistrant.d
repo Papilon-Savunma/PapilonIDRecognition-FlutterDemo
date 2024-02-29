@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/Flutter.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterViewController.h

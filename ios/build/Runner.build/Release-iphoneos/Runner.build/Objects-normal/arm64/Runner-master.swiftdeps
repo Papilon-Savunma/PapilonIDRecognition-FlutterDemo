@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "126b6b6110a0e23f132fbd508edbcf72798e4a48ce51cc09755536cdceaf43c5"
+build_start_time: [1707154922, 351414000]
+build_end_time: [1707154926, 757423000]
+inputs:
+  "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/Runner/AppDelegate.swift": [1707151404, 500170164]
+  "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/Runner/File.swift": [1707151045, 685992687]
+  ? "/Users/macmini/DevProjects/AndroidStudioProjects/flutter_idrecognition_demo/ios/build/Runner.build/Release-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1707154922, 328759125]
